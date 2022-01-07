@@ -2,5 +2,5 @@
 
     public class TopicNames
     {
-    public const string Orders = "orders-topic";
+    public const string Orders = "orderplaced";
     }
