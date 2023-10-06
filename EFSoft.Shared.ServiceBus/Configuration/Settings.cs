@@ -2,5 +2,5 @@
 
 public class Settings
 {
-    public const string ConnnectionString = "Endpoint=sb://efsoft.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=jUu1F+zQJn4DMdGqrmiu+8NmPfBtHH4dwT7IM8/gvHQ=";
+    public const string ConnnectionString = "Endpoint=sb://efsoft.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=S33M0QYwQ5/QcuJOftASE9PtH0QVp7C95+ASbO6KIoc=";
 }
