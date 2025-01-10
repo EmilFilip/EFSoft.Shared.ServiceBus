@@ -18,10 +18,10 @@ stages:
     steps:
 
     - task: UseDotNet@2
-      displayName: 'Use .NET 6 SDK'
+      displayName: 'Use .NET 8 SDK'
       inputs:
         packageType: 'sdk'
-        version: '6.0.x'
+        version: '8.0.x'
         includePreviewVersions: true
 
     - task: NuGetCommand@2
